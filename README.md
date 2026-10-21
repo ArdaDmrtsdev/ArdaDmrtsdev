@@ -2,7 +2,7 @@
 
 ---
 
-- I'm currently working on **Spring and Backend Systems**, **Data ETL Pipelines**, **REST APIs** and **Database Design**
+- I'm currently working on **Spring and Backend Systems**, **REST APIs** and **Database Design**
 - I'm currently learning **C++, Image Processing and Machine Learning**
 
 ## Connect with me:
