@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Arda Demirtaş</h1>
 
-<!--
-**ArdaDmrtsdev/ArdaDmrtsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- I'm currently working on **Spring and Backend Systems**, **Data ETL Pipelines**, **REST APIs** and **Database Design**
+- I'm currently learning **C++, Image Processing and Machine Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+
+<a href="https://www.linkedin.com/in/arda-demirta%C5%9F-9b91a240b/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40" alt="LinkedIn" />
+</a>
+
+## Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,py,pandas,java,bootstrap,spring,postgres&theme=light" alt="Languages and Tools" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=ArdaDmrtsdev&theme=default&hide_border=false" alt="GitHub Streak" />
+</p>
