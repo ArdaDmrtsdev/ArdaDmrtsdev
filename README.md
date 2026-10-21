@@ -14,7 +14,9 @@
 ## Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,py,pandas,java,bootstrap,spring,postgres&theme=light" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,py&theme=light" alt="Languages" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=java,bootstrap,spring,postgres,maven,postman,git&theme=light" alt="Tools" />
 </p>
 
 <p align="left">
